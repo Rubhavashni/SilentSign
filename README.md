@@ -1,4 +1,5 @@
-#SilentSign
+SilentSign
+SilentSign
 AI-Powered Zero-Touch Emergency Communication System
 SilentSign is an AI-powered emergency communication system designed to help a person send an emergency alert without physically operating a smartphone.
 
