@@ -1,6 +1,5 @@
 SilentSign
 
-SilentSign
 AI-Powered Zero-Touch Emergency Communication System
 SilentSign is an AI-powered emergency communication system designed to help a person send an emergency alert without physically operating a smartphone.
 
@@ -10,7 +9,6 @@ The system explores the use of hand gesture recognition, eye-blink detection, an
 During an emergency, a person may not always be able to use a smartphone normally.
 
 For example, they may be unable to:
-
 Speak
 Touch or operate a phone
 Make a visible phone call
@@ -54,9 +52,9 @@ Reduce false or accidental emergency alerts.
 Obtain the user's location during an emergency.
 Provide emergency information to a trusted contact.
 Explore communication methods that can work with limited connectivity.
+
 🧠 Technologies
 The initial prototype may use:
-
 Python
 OpenCV
 MediaPipe
@@ -81,7 +79,6 @@ This approach is intended to make emergency activation more reliable and reduce 
 
 📍 Emergency Information
 After an emergency is confirmed, the system may collect:
-
 Emergency status
 Latitude
 Longitude
@@ -104,6 +101,7 @@ Internet Unavailable
 Bluetooth / Local Communication
        ↓
 Emergency Relay
+
 🚀 Development Plan
 Phase 1 — Hand Gesture Detection
 Develop a camera-based system capable of recognizing a predefined emergency gesture.
@@ -125,32 +123,3 @@ Investigate Bluetooth or other local communication technologies for situations w
 
 Phase 7 — Testing
 Evaluate detection accuracy, response time, false-alert rate, reliability, and performance under different conditions.
-
-📊 Project Status
-Component	Status
-Project concept	✅ Completed
-Paper presentation	✅ Completed
-GitHub repository	✅ Created
-Hand gesture detection	🔲 Planned
-Eye-blink detection	🔲 Planned
-Emergency verification	🔲 Planned
-Location integration	🔲 Planned
-Emergency communication	🔲 Planned
-Offline communication	🔲 Future
-Testing	🔲 Future
-📄 Presentation
-The project presentation is available here:
-
-SilentSign Paper Presentation (PDF)
-
-🔬 Research Areas
-SilentSign involves research in:
-
-Computer Vision
-Hand Gesture Recognition
-Eye-Blink Detection
-Artificial Intelligence
-Assistive Technology
-Emergency Communication
-Multimodal Signal Processing
-Offline Communication
